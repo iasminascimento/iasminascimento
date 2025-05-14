@@ -40,6 +40,7 @@ Me chamo Iasmin Nascimento de Sousa tenho 25 anos, moro em Águas Lindas Goiás.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+---
 
 ### 📊 Estatísticas
 
