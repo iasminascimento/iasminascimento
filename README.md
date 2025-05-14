@@ -1,7 +1,40 @@
-## Iasmin Nascimento
+## Iasmin Nascimento de Sousa
 **`Desenvolvedora Front-End`**
 
 Me chamo Iasmin Nascimento de Sousa tenho 25 anos, moro em Águas Lindas Goiás. Concluí o ensino médio no Colégio Estadual Ayrton Senna da Silva. Atualmente, estou aprendendo programação de forma auto-didata desde 2020 e acompanho a evolução dela desde então, paralelo à isso estou com planos de cursar uma faculdade no futuro.
+
+<p align="left">
+     <a href="https://www.linkedin.com/in/iasmin-nascimento-de-sousa-800a09318/">
+        <img 
+            alt="email sender" 
+            title="Mande-me um Email" 
+            src="https://custom-icon-badges.demolab.com/badge/email-red?logo=mail&logoColor=white&style=for-the-badge&labelColor=red"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/iasminascimento?logo=star&logoColor=white&style=for-the-badge&labelColor=yellow&label=estrelas"
+        />
+    </a>
+        <a href="https://github.com/iasminascimento?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/iasminascimento?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+        <a href="https://www.linkedin.com/in/iasmin-nascimento-de-sousa-800a09318/">
+        <img 
+            alt="Linkedin Profile" 
+            title="Perfil no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?logo=linkedin&logoSource=feather&logoColor=white&style=for-the-badge&labelColor=blue"
+        />
+    </a> 
+
+</p>
+
 
 ---
 
@@ -31,14 +64,7 @@ Me chamo Iasmin Nascimento de Sousa tenho 25 anos, moro em Águas Lindas Goiás.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<br>
 
 ---
 
